@@ -1,0 +1,6 @@
+{
+  "name": "DirhamPay - Moroccan Dirham Converter",
+  "description": "Android currency converter for Moroccan Dirham (MAD). Live rates, Bank Al-Maghrib benchmark, offline mode, and authentic Moroccan ryal & souk calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
